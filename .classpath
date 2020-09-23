@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="/home/ninad/Desktop/mysql-connector-java-8.0.17.jar"/>
+	<classpathentry kind="lib" path="/home/ninad/Desktop/appframework-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/ninad/Desktop/javax.persistence-2.2.0-release.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

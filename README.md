@@ -1,5 +1,14 @@
 # StudentsManagementSystem
 
+
+![1](https://github.com/iamninad/StudentsManagementSystem/blob/master/Screenshots[SMS]/1.png?raw=true)
+![2](https://github.com/iamninad/StudentsManagementSystem/blob/master/Screenshots[SMS]/2.png?raw=true)
+![3](https://github.com/iamninad/StudentsManagementSystem/blob/master/Screenshots[SMS]/3.png?raw=true)
+![4](https://github.com/iamninad/StudentsManagementSystem/blob/master/Screenshots[SMS]/4.png?raw=true)
+![5](https://github.com/iamninad/StudentsManagementSystem/blob/master/Screenshots[SMS]/5.png?raw=true)
+![6](https://github.com/iamninad/StudentsManagementSystem/blob/master/Screenshots[SMS]/6.png?raw=true)
+![7](https://github.com/iamninad/StudentsManagementSystem/blob/master/Screenshots[SMS]/7.png?raw=true)
+
 NetBeans IDE 8.2
 
 jdk-10.0.1
@@ -7,11 +16,3 @@ jdk-10.0.1
 mysql-connector-java-8.0.17.jar
 
 XAMPP
-
-![1](https://drive.google.com/file/d/1v_ivqt1V2hWLmGEXPYuHIjdHBE9OgN-U/view?usp=sharing)
-![2](https://drive.google.com/file/d/1h9kjfm6ZNHLehKz_be8Hb54fDBe4loDR/view?usp=sharing)
-![3](https://drive.google.com/file/d/1v_ivqt1V2hWLmGEXPYuHIjdHBE9OgN-U/view?usp=sharing)
-![4](https://drive.google.com/file/d/1v_ivqt1V2hWLmGEXPYuHIjdHBE9OgN-U/view?usp=sharing)
-![5](https://drive.google.com/file/d/1v_ivqt1V2hWLmGEXPYuHIjdHBE9OgN-U/view?usp=sharing)
-![6](https://drive.google.com/file/d/1v_ivqt1V2hWLmGEXPYuHIjdHBE9OgN-U/view?usp=sharing)
-![7](https://drive.google.com/file/d/1v_ivqt1V2hWLmGEXPYuHIjdHBE9OgN-U/view?usp=sharing)
